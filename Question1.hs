@@ -1,6 +1,6 @@
 -- ECM2418 Computer Languages and Representations
 -- Continuous Assessment 1: Functional Programming
--- Author - 690024916
+-- Author - 690024916 / 041595
 
 --------------------------------Question 1--------------------------------
 -- 1.1
